@@ -1,2 +1,9 @@
 # nlw-experts
-Evento feito pela nlw expert
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Github
+
